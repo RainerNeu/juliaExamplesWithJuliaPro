@@ -1,6 +1,6 @@
 using DataFrames
 
-#Create Dateaframe
+#Create Dataframe
 myDataFrame = DataFrame(Name = ["Paul", "Bryan", "Julia", "Helmut"],
                         Age = [22, 90, 38, 67])
                         
